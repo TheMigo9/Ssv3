@@ -1,0 +1,27 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Suffering-Siblings-V3",
+			"finn",
+			[
+				82,
+				165,
+				235
+			],
+			95
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "curroptiontime"
+}
