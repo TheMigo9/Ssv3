@@ -1,0 +1,4 @@
+value1 determines the botplay state.
+if 0, botplay is disabled.
+if 1, botplay is enabled.
+if none of the above, botplay is toggled

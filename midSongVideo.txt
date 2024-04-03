@@ -1,0 +1,4 @@
+value1: true or false, this will pause arrow scroll/events you wont die
+		make sure to turn it back to false
+
+value2: video file name

@@ -1,0 +1,5 @@
+momento manzana mala
+
+value 1: "a" para activar y "b" para apagar p causa
+
+value 2: velocidad
