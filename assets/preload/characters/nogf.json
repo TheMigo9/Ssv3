@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF Cheer"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/nogf",
+	"position": [
+		120,
+		-10
+	],
+	"healthicon": "icon-mystery",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		310,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

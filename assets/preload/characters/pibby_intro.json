@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "3",
+			"indices": [],
+			"name": "Pibby 3"
+		},
+		{
+			"offsets": [
+				27,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "2",
+			"indices": [],
+			"name": "Pibby 2"
+		},
+		{
+			"offsets": [
+				3,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "1",
+			"indices": [],
+			"name": "Pibby 1"
+		},
+		{
+			"offsets": [
+				-18,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Go",
+			"indices": [],
+			"name": "Pibby Go"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pibby_Intro",
+	"position": [
+		10,
+		340
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

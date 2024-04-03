@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				33,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cmon",
+			"indices": [],
+			"name": "Cmon"
+		},
+		{
+			"offsets": [
+				-133,
+				-147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle alt"
+		},
+		{
+			"offsets": [
+				68,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left Alt"
+		},
+		{
+			"offsets": [
+				103,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Alt"
+		},
+		{
+			"offsets": [
+				44,
+				-112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Alt"
+		},
+		{
+			"offsets": [
+				-79,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Alt"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Pibby_Angy",
+	"position": [
+		60,
+		430
+	],
+	"healthicon": "pibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		97,
+		170
+	],
+	"camera_position": [
+		-550,
+		-140
+	],
+	"sing_duration": 5,
+	"scale": 6,
+	"_editor_isPlayer": false
+}

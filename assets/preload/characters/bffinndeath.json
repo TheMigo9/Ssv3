@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				56
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bfdies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-72,
+				-192
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deathloop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				553,
+				33
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "retry",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfdeathfinn",
+	"position": [
+		-360,
+		100
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-90,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

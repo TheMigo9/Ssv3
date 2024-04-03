@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				98,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Go",
+			"loop": false,
+			"name": "BF Go"
+		},
+		{
+			"offsets": [
+				97,
+				113
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "1",
+			"loop": false,
+			"name": "BF 1"
+		},
+		{
+			"offsets": [
+				30,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "2",
+			"loop": false,
+			"name": "BF 3"
+		},
+		{
+			"offsets": [
+				98,
+				114
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "3",
+			"loop": false,
+			"name": "BF 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_Pibby_intro",
+	"position": [
+		70,
+		340
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
