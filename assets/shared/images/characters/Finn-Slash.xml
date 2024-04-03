@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Finn-Slash.png" width="2681" height="843">
+  <SubTexture name="Hit0004" x="0" y="0"  width="407" height="237" frameX="-4" frameY="-21" frameWidth="411" frameHeight="259"/>
+  <SubTexture name="Hit0006" x="407" y="0"  width="407" height="237" frameX="-4" frameY="-21" frameWidth="411" frameHeight="259"/>
+  <SubTexture name="Hit0002" x="814" y="0"  width="403" height="249" frameX="-4" frameY="-9" frameWidth="411" frameHeight="259"/>
+  <SubTexture name="Hit0000" x="0" y="237"  width="394" height="205" frameX="-4" frameY="-53" frameWidth="411" frameHeight="259"/>
+  <SubTexture name="Charge0002" x="394" y="237"  width="306" height="207" frameX="-2" frameY="-23" frameWidth="308" frameHeight="230"/>
+  <SubTexture name="Charge0000" x="0" y="442"  width="305" height="211" frameX="-3" frameY="-19" frameWidth="308" frameHeight="230"/>
+  <SubTexture name="Charge0006" x="1217" y="0"  width="293" height="228" frameX="-15" frameY="-2" frameWidth="308" frameHeight="230"/>
+  <SubTexture name="Charge0008" x="1510" y="0"  width="293" height="228" frameX="-15" frameY="-2" frameWidth="308" frameHeight="230"/>
+  <SubTexture name="Charge0010" x="1803" y="0"  width="293" height="228" frameX="-15" frameY="-2" frameWidth="308" frameHeight="230"/>
+  <SubTexture name="Charge0004" x="2096" y="0"  width="293" height="226" frameX="-15" frameY="-4" frameWidth="308" frameHeight="230"/>
+  <SubTexture name="Charge0012" x="2389" y="0"  width="292" height="228" frameX="-16" frameY="-2" frameWidth="308" frameHeight="230"/>
+  <SubTexture name="Charge0014" x="2096" y="226"  width="292" height="227" frameX="-15" frameY="-3" frameWidth="308" frameHeight="230"/>
+  <SubTexture name="Second-Hit0006" x="1217" y="228"  width="255" height="187" frameX="-0" frameY="-27" frameWidth="259" frameHeight="241"/>
+  <SubTexture name="Second-Hit0004" x="700" y="249"  width="253" height="212" frameX="-0" frameY="-2" frameWidth="259" frameHeight="241"/>
+  <SubTexture name="Second-Hit0002" x="953" y="249"  width="248" height="210" frameX="-3" frameY="-4" frameWidth="259" frameHeight="241"/>
+  <SubTexture name="Second-Hit0000" x="305" y="444"  width="246" height="168" frameX="-13" frameY="-46" frameWidth="259" frameHeight="241"/>
+  <SubTexture name="Second-Hit0008" x="305" y="612"  width="227" height="190" frameX="-28" frameY="-24" frameWidth="259" frameHeight="241"/>
+  <SubTexture name="Second-Hit0010" x="0" y="653"  width="227" height="190" frameX="-28" frameY="-24" frameWidth="259" frameHeight="241"/>
+</TextureAtlas>

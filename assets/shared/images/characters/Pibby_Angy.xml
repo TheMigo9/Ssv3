@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pibby_angy.png">
+	
+	
+	<SubTexture name="Cmon0000" x="814" y="66" width="59" height="70" frameX="-49" frameY="-28" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0001" x="814" y="66" width="59" height="70" frameX="-49" frameY="-28" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0002" x="690" y="477" width="59" height="71" frameX="-49" frameY="-27" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0003" x="690" y="549" width="59" height="71" frameX="-49" frameY="-27" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0004" x="128" y="776" width="59" height="64" frameX="-32" frameY="-33" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0005" x="128" y="776" width="59" height="64" frameX="-32" frameY="-33" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0006" x="814" y="482" width="61" height="65" frameX="-26" frameY="-33" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0007" x="814" y="417" width="61" height="65" frameX="-26" frameY="-33" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0008" x="67" y="712" width="65" height="63" frameX="-21" frameY="-35" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0009" x="67" y="712" width="65" height="63" frameX="-21" frameY="-35" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0010" x="132" y="712" width="65" height="63" frameX="-22" frameY="-36" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0011" x="132" y="712" width="65" height="63" frameX="-22" frameY="-36" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0012" x="64" y="776" width="64" height="64" frameX="-23" frameY="-34" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0013" x="64" y="776" width="64" height="64" frameX="-23" frameY="-34" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0014" x="0" y="776" width="64" height="66" frameX="-27" frameY="-32" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0015" x="0" y="776" width="64" height="66" frameX="-27" frameY="-32" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0016" x="814" y="0" width="63" height="66" frameX="-29" frameY="-32" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0017" x="814" y="0" width="63" height="66" frameX="-29" frameY="-32" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0018" x="814" y="207" width="61" height="66" frameX="-32" frameY="-32" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0019" x="814" y="207" width="61" height="66" frameX="-32" frameY="-32" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0020" x="814" y="617" width="59" height="66" frameX="-34" frameY="-32" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0021" x="814" y="617" width="59" height="66" frameX="-34" frameY="-32" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0022" x="877" y="0" width="59" height="65" frameX="-36" frameY="-33" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0023" x="877" y="0" width="59" height="65" frameX="-36" frameY="-33" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0024" x="814" y="136" width="59" height="70" frameX="-40" frameY="-28" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0025" x="690" y="398" width="59" height="79" frameX="-46" frameY="-19" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0026" x="690" y="319" width="59" height="79" frameX="-46" frameY="-19" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0027" x="690" y="0" width="61" height="81" frameX="-48" frameY="-17" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0028" x="690" y="81" width="60" height="81" frameX="-48" frameY="-17" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0029" x="405" y="147" width="64" height="80" frameX="-49" frameY="-18" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0030" x="405" y="67" width="64" height="80" frameX="-49" frameY="-18" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0031" x="588" y="185" width="65" height="79" frameX="-48" frameY="-19" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0032" x="588" y="424" width="65" height="79" frameX="-48" frameY="-19" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0033" x="588" y="345" width="65" height="79" frameX="-47" frameY="-19" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0034" x="588" y="265" width="65" height="79" frameX="-47" frameY="-19" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0035" x="405" y="228" width="63" height="79" frameX="-47" frameY="-19" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0036" x="0" y="558" width="63" height="79" frameX="-47" frameY="-19" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0037" x="125" y="558" width="62" height="79" frameX="-46" frameY="-19" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0038" x="63" y="558" width="62" height="79" frameX="-46" frameY="-19" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0039" x="187" y="558" width="61" height="79" frameX="-46" frameY="-19" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0040" x="249" y="558" width="61" height="79" frameX="-46" frameY="-19" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0041" x="311" y="558" width="61" height="78" frameX="-46" frameY="-20" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0042" x="373" y="558" width="61" height="78" frameX="-46" frameY="-20" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0043" x="434" y="558" width="61" height="78" frameX="-46" frameY="-20" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0044" x="495" y="558" width="61" height="78" frameX="-46" frameY="-20" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0045" x="618" y="558" width="61" height="78" frameX="-46" frameY="-20" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0046" x="557" y="558" width="61" height="78" frameX="-46" frameY="-20" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0047" x="690" y="162" width="61" height="78" frameX="-46" frameY="-20" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0048" x="690" y="240" width="61" height="78" frameX="-46" frameY="-20" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0049" x="751" y="74" width="58" height="77" frameX="-48" frameY="-21" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0050" x="751" y="151" width="58" height="77" frameX="-48" frameY="-21" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0051" x="751" y="301" width="58" height="76" frameX="-45" frameY="-21" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Cmon0052" x="814" y="547" width="57" height="69" frameX="-37" frameY="-28" frameWidth="133" frameHeight="120" />
+	<SubTexture name="Down Alt0000" x="588" y="0" width="101" height="56" frameX="-2" frameY="-33" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Down Alt0001" x="0" y="502" width="103" height="56" frameX="-1" frameY="-34" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Down Alt0002" x="278" y="373" width="105" height="56" frameX="0" frameY="-33" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Down Alt0003" x="384" y="373" width="105" height="56" frameX="0" frameY="-33" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Down Alt0004" x="291" y="439" width="106" height="55" frameX="0" frameY="-33" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Down Alt0005" x="185" y="439" width="106" height="55" frameX="0" frameY="-33" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Down Alt0006" x="103" y="502" width="92" height="55" frameX="-14" frameY="-32" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Down Alt0007" x="195" y="502" width="92" height="55" frameX="-14" frameY="-32" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Down Alt0008" x="489" y="439" width="92" height="55" frameX="-15" frameY="-32" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Down Alt0009" x="397" y="439" width="92" height="55" frameX="-15" frameY="-32" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Down Alt0010" x="405" y="308" width="88" height="55" frameX="-18" frameY="-31" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Down Alt0011" x="63" y="638" width="82" height="56" frameX="-24" frameY="-30" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Down Alt0012" x="877" y="65" width="59" height="63" frameX="-46" frameY="-23" frameWidth="138" frameHeight="100" />
+	<SubTexture name="Idle alt0000" x="751" y="601" width="60" height="73" frameX="-2" frameY="-1" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0001" x="751" y="601" width="60" height="73" frameX="-2" frameY="-1" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0002" x="751" y="228" width="61" height="73" frameX="-1" frameY="-1" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0003" x="751" y="228" width="61" height="73" frameX="-1" frameY="-1" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0004" x="0" y="638" width="63" height="74" frameX="0" frameY="0" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0005" x="0" y="638" width="63" height="74" frameX="0" frameY="0" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0006" x="751" y="0" width="62" height="74" frameX="-1" frameY="0" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0007" x="751" y="0" width="62" height="74" frameX="-1" frameY="0" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0008" x="751" y="378" width="60" height="74" frameX="-3" frameY="0" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0009" x="751" y="378" width="60" height="74" frameX="-3" frameY="0" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0010" x="751" y="452" width="59" height="74" frameX="-4" frameY="0" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0011" x="751" y="452" width="59" height="74" frameX="-4" frameY="0" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0012" x="751" y="527" width="59" height="74" frameX="-4" frameY="0" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Idle alt0013" x="751" y="527" width="59" height="74" frameX="-4" frameY="0" frameWidth="62" frameHeight="73" />
+	<SubTexture name="Left Alt0000" x="496" y="0" width="92" height="65" frameX="-1" frameY="-16" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Left Alt0001" x="0" y="373" width="93" height="65" frameX="0" frameY="-17" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Left Alt0002" x="93" y="373" width="92" height="64" frameX="0" frameY="-18" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Left Alt0003" x="185" y="373" width="92" height="64" frameX="0" frameY="-18" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Left Alt0004" x="92" y="439" width="92" height="63" frameX="-1" frameY="-18" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Left Alt0005" x="0" y="439" width="92" height="63" frameX="-1" frameY="-18" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Left Alt0006" x="496" y="132" width="92" height="63" frameX="-3" frameY="-18" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Left Alt0007" x="496" y="196" width="92" height="63" frameX="-3" frameY="-18" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Left Alt0008" x="496" y="260" width="91" height="63" frameX="-4" frameY="-18" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Left Alt0009" x="496" y="324" width="91" height="63" frameX="-4" frameY="-18" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Left Alt0010" x="588" y="121" width="82" height="63" frameX="-13" frameY="-18" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Left Alt0011" x="0" y="712" width="67" height="64" frameX="-30" frameY="-18" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Left Alt0012" x="814" y="347" width="58" height="69" frameX="-38" frameY="-13" frameWidth="137" frameHeight="96" />
+	<SubTexture name="Right Alt0000" x="312" y="0" width="93" height="68" frameX="0" frameY="-2" frameWidth="97" frameHeight="70" />
+	<SubTexture name="Right Alt0001" x="180" y="231" width="94" height="67" frameX="0" frameY="-2" frameWidth="97" frameHeight="70" />
+	<SubTexture name="Right Alt0002" x="93" y="306" width="93" height="67" frameX="-1" frameY="-3" frameWidth="97" frameHeight="70" />
+	<SubTexture name="Right Alt0003" x="0" y="306" width="93" height="67" frameX="-1" frameY="-3" frameWidth="97" frameHeight="70" />
+	<SubTexture name="Right Alt0004" x="312" y="141" width="93" height="67" frameX="-1" frameY="-3" frameWidth="97" frameHeight="70" />
+	<SubTexture name="Right Alt0005" x="312" y="208" width="93" height="67" frameX="-1" frameY="-3" frameWidth="97" frameHeight="70" />
+	<SubTexture name="Right Alt0006" x="187" y="306" width="92" height="67" frameX="-1" frameY="-3" frameWidth="97" frameHeight="70" />
+	<SubTexture name="Right Alt0007" x="279" y="306" width="92" height="67" frameX="-1" frameY="-3" frameWidth="97" frameHeight="70" />
+	<SubTexture name="Right Alt0008" x="405" y="0" width="91" height="67" frameX="-1" frameY="-3" frameWidth="97" frameHeight="70" />
+	<SubTexture name="Right Alt0009" x="496" y="65" width="90" height="67" frameX="0" frameY="-3" frameWidth="97" frameHeight="70" />
+	<SubTexture name="Right Alt0010" x="588" y="56" width="86" height="65" frameX="0" frameY="-5" frameWidth="97" frameHeight="70" />
+	<SubTexture name="Right Alt0011" x="814" y="683" width="61" height="63" frameX="-17" frameY="-6" frameWidth="97" frameHeight="70" />
+	<SubTexture name="Up Alt0000" x="208" y="76" width="101" height="77" frameX="-2" frameY="-2" frameWidth="106" frameHeight="79" />
+	<SubTexture name="Up Alt0001" x="0" y="77" width="102" height="78" frameX="-1" frameY="-1" frameWidth="106" frameHeight="79" />
+	<SubTexture name="Up Alt0002" x="0" y="0" width="104" height="77" frameX="0" frameY="-2" frameWidth="106" frameHeight="79" />
+	<SubTexture name="Up Alt0003" x="104" y="0" width="104" height="77" frameX="0" frameY="-2" frameWidth="106" frameHeight="79" />
+	<SubTexture name="Up Alt0004" x="208" y="0" width="104" height="76" frameX="0" frameY="-3" frameWidth="106" frameHeight="79" />
+	<SubTexture name="Up Alt0005" x="102" y="77" width="104" height="76" frameX="0" frameY="-3" frameWidth="106" frameHeight="79" />
+	<SubTexture name="Up Alt0006" x="92" y="155" width="92" height="75" frameX="-12" frameY="-4" frameWidth="106" frameHeight="79" />
+	<SubTexture name="Up Alt0007" x="0" y="155" width="92" height="75" frameX="-12" frameY="-4" frameWidth="106" frameHeight="79" />
+	<SubTexture name="Up Alt0008" x="0" y="231" width="92" height="75" frameX="-12" frameY="-5" frameWidth="106" frameHeight="79" />
+	<SubTexture name="Up Alt0009" x="184" y="155" width="92" height="75" frameX="-12" frameY="-5" frameWidth="106" frameHeight="79" />
+	<SubTexture name="Up Alt0010" x="92" y="231" width="88" height="74" frameX="-15" frameY="-5" frameWidth="106" frameHeight="79" />
+	<SubTexture name="Up Alt0011" x="312" y="68" width="85" height="73" frameX="-21" frameY="-6" frameWidth="106" frameHeight="79" />
+	<SubTexture name="Up Alt0012" x="814" y="274" width="54" height="73" frameX="-43" frameY="-6" frameWidth="106" frameHeight="79" />
+</TextureAtlas>
